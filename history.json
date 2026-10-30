@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": 1792247903.8167207,
+    "message": "data icon",
+    "next_id": 2,
+    "entries": [
+      {
+        "id": 1,
+        "name": "api-trend",
+        "path": "C:\\Users\\max\\AppData\\Local\\Temp\\iconstudiotest\\e2e\\api_out\\data_opt.ico",
+        "tags": [],
+        "hash": "517645cb1168844d8881f47b900be7b2da51b52554dd5dad76bd559bad578998"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1792241420.376721,
+    "message": "Added icon CliIcon",
+    "next_id": 2,
+    "entries": [
+      {
+        "id": 1,
+        "name": "CliIcon",
+        "path": "C:\\Users\\max\\AppData\\Local\\Temp\\iconstudiotest\\assets\\test_icon.ico",
+        "tags": [],
+        "hash": "92ebcc107158b843414939866d7d331bb7088455b4e6470fc39f53cc07e440f2"
+      }
+    ]
+  },
+  {
+    "timestamp": 1792241777.8863587,
+    "message": "Added icon CliIcon",
+    "next_id": 2,
+    "entries": [
+      {
+        "id": 1,
+        "name": "CliIcon",
+        "path": "C:\\Users\\max\\AppData\\Local\\Temp\\iconstudiotest\\assets\\test_icon.ico",
+        "tags": [],
+        "hash": "92ebcc107158b843414939866d7d331bb7088455b4e6470fc39f53cc07e440f2"
+      }
+    ]
+  },
+  {
+    "timestamp": 1792248205.4306073,
+    "message": "avatar 3d",
+    "next_id": 2,
+    "entries": [
+      {
+        "id": 1,
+        "name": "avatar-glossy",
+        "path": "C:\\Users\\max\\AppData\\Local\\Temp\\iconstudiotest\\e2e\\av_gui\\avatar_opt.ico",
+        "tags": [],
+        "hash": "868814db5c1231326584082200c1c144092d2ae4f523118ae5c04d84a5a4fd8d"
+      }
+    ]
+  }
+]
