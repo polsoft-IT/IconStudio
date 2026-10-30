@@ -142,3 +142,14 @@ Distributed under the MIT License. See `LICENSE` for details.
 Made with ❤️ using Python and Tkinter
 
 </div>
+
+---
+
+<small>
+
+author: Sebastian Januchowski  
+company: polsoft.ITS™  
+email: [polsoft.its@mail.com](mailto:polsoft.its@mail.com)  
+GitHub: [https://github.com/polsoft-it](https://github.com/polsoft-it)
+
+</small>

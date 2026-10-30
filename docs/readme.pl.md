@@ -141,3 +141,14 @@ Projekt dystrybuowany na licencji MIT. Szczegóły w pliku `LICENSE`.
 Stworzone z ❤️ w Pythonie i Tkinter
 
 </div>
+
+---
+
+<small>
+
+author: Sebastian Januchowski  
+company: polsoft.ITS™  
+email: [polsoft.its@mail.com](mailto:polsoft.its@mail.com)  
+GitHub: [https://github.com/polsoft-it](https://github.com/polsoft-it)
+
+</small>
