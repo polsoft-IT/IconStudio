@@ -1,0 +1,1 @@
+IconStudio — professional icon studio for Windows. Convert any image to multi-resolution ICO (16–256px), PNG sets, favicons or macOS ICNS. Features smart crop, pixel-perfect small sizes, quality scoring, contextual previews and AI-powered icon generation.
